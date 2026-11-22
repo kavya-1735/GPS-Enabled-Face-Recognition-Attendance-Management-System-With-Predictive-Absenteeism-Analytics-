@@ -1,0 +1,2 @@
+# GPS-Enabled-Face-Recognition-Attendance-Management-System-With-Predictive-Absenteeism-Analytics-
+GPS-Enabled Face Recognition Attendance Management System is an AI-powered system that uses facial recognition and GPS verification to automate student attendance. It includes Admin, Teacher, and Student modules, attendance tracking, leave management, automated notifications, and predictive analytics to identify students at risk of absenteeism.
